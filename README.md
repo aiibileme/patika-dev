@@ -1,2 +1,3 @@
-# patika-dev-egitimler
-Patika Dev Eğitimleri
+# patika.dev üzerinden alınan eğitimlere ait örnekler
+
+pythonBasic.py -> Python Temel eğitim proje ödevi
