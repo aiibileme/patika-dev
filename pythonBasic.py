@@ -16,13 +16,13 @@ print(res)
 
 
 def sortedList():
-    a = [[1, 2], [3, 4], [5, 6, 7]]
-    b = []
-    for i in a:
-        c = sorted(i, reverse=True)
-        b.append(c)
+    inputs = [[1, 2], [3, 4], [5, 6, 7]]
+    outputs = []
+    for i in inputs:
+        value = sorted(i, reverse=True)
+        outputs.append(value)
 
-    return sorted(b, reverse=True)
+    return sorted(outputs, reverse=True)
 
 
 print sortedList()
