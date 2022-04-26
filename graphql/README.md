@@ -1,3 +1,3 @@
-# GraphQL Eğitim Uygulamaları
+### GraphQL Eğitim Uygulamaları
 
 
