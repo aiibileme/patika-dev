@@ -9,6 +9,7 @@ const typeDefs = gql`
         desc:String
         date:String
         from:String
+        to:String
         location_id:ID!
         user_id:ID!
         
