@@ -1,7 +1,9 @@
 const { ApolloServer, gql } = require('apollo-server');
 const { ApolloServerPluginLandingPageGraphQLPlayground } = require('apollo-server-core');
 
-const typeDefs = gql``;
+const typeDefs = gql`
+    type Event {}
+`;
 const resolvers = {}
 
 const server = new ApolloServer({
